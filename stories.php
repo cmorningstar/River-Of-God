@@ -1,0 +1,106 @@
+<!DOCTYPE HTML>
+<!--
+	Strata by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>River of God Church</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<header id="header">
+				<div class="inner">
+					<a href="#" class="image avatar"><img src="images/avatar.jpg" alt="" /></a>
+					<h1><strong>We are River of God Church</strong>, our mission is to
+					add a mission statment here.</h1>
+				</div>
+			</header>
+
+		<!-- Main -->
+			<div id="main">
+
+				<!-- One -->
+					<section id="one">
+						<header class="major">
+							<h2>These are stories shared by some of our members sharing what the Lord has done in their lives.</h2>
+						</header>
+						<p>God has done amazing things for all of us here at River of God Church and we are exited to share about them with everyone that we meet. We have seen Him work in our lives in ways that we could never have imagined possible and we know that if He can do it for us, He can do it for you.</p>
+            <p>"For several months I had an infection in my sinus and nose.  My nose was very sore and painful to touch.  My Doctor had tried several prescriptions with no success.  I went forward Sunday morning for prayer.  Immediately after prayer, the pain and all soreness was gone.  I was back to the Doctor for a checkup and he reported there was very little sign of previous problem.  Thank you Jesus!" - Mary G.</p>
+						<ul class="actions">
+							<li><a href="index.php" class="button">Back to Main Page</a></li>
+						</ul>
+					</section>
+
+				<!-- Three -->
+					<section id="three">
+						<h2>Get In Touch</h2>
+						<p>If you have any questions or need prayer please contact us.</p>
+						<div class="row">
+							<div class="col-8 col-12-small">
+								<form method="post" action="#">
+									<div class="row gtr-uniform gtr-50">
+										<div class="col-6 col-12-xsmall"><input type="text" name="name" id="name" placeholder="Name" /></div>
+										<div class="col-6 col-12-xsmall"><input type="email" name="email" id="email" placeholder="Email" /></div>
+										<div class="col-12"><textarea name="message" id="message" placeholder="Message" rows="4"></textarea></div>
+									</div>
+								</form>
+								<ul class="actions">
+									<li><input type="submit" value="Send Message" /></li>
+								</ul>
+							</div>
+							<div class="col-4 col-12-small">
+								<ul class="labeled-icons">
+									<li>
+										<h3 class="icon solid fa-home"><span class="label">Address</span></h3>
+										5238 Business RT 220<br />
+										Bedford, PA 15522<br />
+										United States
+									</li>
+									<li>
+										<h3 class="icon solid fa-mobile-alt"><span class="label">Phone</span></h3>
+										(814)-839-4271
+                    <p>or <br />
+                    (814)-494-3285</p>
+									</li>
+									<li>
+										<h3 class="icon solid fa-envelope"><span class="label">Email</span></h3>
+										<a href="#">filler@gmail.com</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</section>
+			  </div>
+
+		<!-- Footer -->
+			<footer id="footer">
+				<div class="inner">
+					<ul class="icons">
+						<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
+						<li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li>
+						<li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+					<ul class="copyright">
+            <!-- add php to the copywrite-->
+						<li>&copy; <?php echo(date("Y"))?> River of God Church, All Rights Resevered</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

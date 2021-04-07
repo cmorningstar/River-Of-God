@@ -1,0 +1,146 @@
+<!DOCTYPE HTML>
+<!--
+	Strata by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>River of God Church</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<header id="header">
+				<div class="inner">
+					<a href="#" class="image avatar"><img src="images/avatar.jpg" alt="" /></a>
+					<h1><strong>We are River of God Church</strong>, our mission is to
+					add a mission statment here.</h1>
+				</div>
+			</header>
+
+		<!-- Main -->
+			<div id="main">
+
+				<!-- One -->
+					<section id="one">
+						<header class="major">
+							<h2>Who are we</h2>
+						</header>
+						<p>River of God Church is a non-denominational full gospel church that was started in 2011 with Pastor Richard and Louise Reed.</p>
+            <p>Pastor Richard started out holding meetings in their home near New Paris. When that was outgrown, the basement was set up as the church sanctuary where services were held until we were able to purchase the Bedford Grange in 2016. After some renovation we had our first service on July 17, 2016.</p>
+            <p>Our vision is to build a victorious church out of broken lives through the power of Jesus Christ, and to reach the world with the Gospel of Jesus Christ, beginning in our own community, all while proclaiming and demonstrating the love of God. </p>
+            <p>Our goal is to reach people where they are.</p>
+            <header class="major">
+							<h2>What we believe</h2>
+						</header>
+            <h3>The scriptures inspired</h3>
+            <p>The Bible is the inspired Word of God, a revelation from God to men, the infallible rule of faith and conduct, and superior to conscience and reason, but not contrary to reason. (2 Tim. 3-15-17; 1 Pet. 1:23-25; Heb. 4:12)</p>
+            <h3>The One True God</h3>
+            <p>The one true God has revealed Himself as the eternally self-existent, self-revealed “I AM,” and has further revealed Himself as embodying the principles of relationship and association, by simultaneously existing as Father, Son, and Holy Spirit. (Deut. 6:4; Mark 12:29; Isa. 43:10, 11; Matt. 28:19)</p>
+            <h3>Men’s Fall and Redemption</h3>
+            <p>Man was created good and upright, for God said, “Let us make man in our image and after our likeness.” Man, by voluntary transgression, fell, and his only hope of redemption is in Jesus Christ, the Son of God. (Gen. 1:26-31; Gen. 3:17; Ro. 5:12-21)</p>
+            <h3>The Salvation of Man</h3>
+            <p><b><u>Conditions of Salvation</u></b></p>
+            <p>
+            The Grace of God, which brings salvation, has appeared to all men, through the preaching of repentance toward God and through faith in the Lord Jesus Christ; man is saved by the washing regeneration and renewing of the Holy Spirit, and being justified by grace, has become heir of God according to the hope of eternal life. (Titus 2:11; 3:5-7; Ro. 10:13-15; Luke 24:47)
+            </p>
+            <p><b><u>Evidences of Salvation</u></b></p>
+            <p>
+            The inward evidence to the believer of his/her salvation is the direct witness of the Spirit (Ro. 8:16). The outward evidence to all men is a life of holiness. (1 Thess. 4:7; 2 Tim. 1:9)
+            </p>
+            <h3>Baptism in Water</h3>
+            <p>The ordinance of baptism by burial with Christ should be observed (as commanded in the Scriptures) by all that have repented of their sins and in their hearts have believed in Christ as their Savior and Lord. In doing so, they declare to the world that they have died with Christ and that they have also been released to walk with Him in newness of life. (Matt. 28:19; Ro. 6:4)</p>
+            <h3>The Lord’s Supper (Communion)</h3>
+            <p>The Lord’s Supper, consisting of the elements, bread and fruit of the vine, is the symbol expressing our sharing in a memorial to His suffering and death, and a prophecy of His second coming, and is enjoined to all believers “until He comes.” (John 6:48, 51, 53-57; Luke 22:19, 20; 2 Pet. 1:4; 1 Cor. 11:25)</p>
+            <h3>The Promise of the Father</h3>
+            <p>All believers should ardently expect and earnestly seek the Promise of the Father, which is the baptism of the Holy Spirit. With it comes the infilling of power for life and service, and the bestowment of the gifts and their uses in the work of the ministry (Luke 24:49; Acts 1:4-8; 1 Cor. 12:1-31). This experience may be distinct from and subsequent to the experience of the New Birth. (Acts 2:38; 10:44-46; 11:14-16; 15:7-9)</p>
+            <h3>Sanctification Process</h3>
+            <p>By the power of the Holy Spirit we strive to obey the command, “Be ye holy, for I am holy.” Sanctification is the will of God for all believers, and should be earnestly pursued by walking in obedience to God’s Word. (Heb. 12:14; 1 Pet. 1:15, 16; 1 Thess. 5:23, 24; 1 John 2:6)</p>
+            <h3>The Church</h3>
+            <p>The church is the holy Body of Christ, the habitation of God through the Spirit, with diving appointments for the fulfillment of her great commission. Each believer is an integral part of the church, and their names are written in the Lamb’s Book of Life. (1 Thess. 2:4)</p>
+            <h3>Ministry</h3>
+            <p>Divinely called and Scripturally ordained ministry has been provided by our Lord for a two-fold purpose: (1) The evangelization of the world, and (2) The edification of the Body of Christ. (Mark 16:15, 20; Eph. 4:11-13)</p>
+            <h3>Divine Healing</h3>
+            <p>Deliverance from sickness is provided for in the atonement of Christ and is the privilege of all believers. (Isa. 53:4, 5; Matt. 8:16, 17; Mark 16:18; John 5:14)</p>
+            <h3>The Blessed Hope</h3>
+            <p>The resurrection of those who have fallen asleep in Christ and their translation, together with those who are alive and remain unto the Lord, is imminent and is the blessed hope of the church. (1 Thess. 4:16; Ro. 6:23; Titus 2:13; 1 Cor. 15:51, 52)</p>
+            <h3>The Millennial Reign of Jesus</h3>
+            <p>The revelation of the Lord Jesus Christ from heaven, the salvation of national Israel, and the millennial reign of Christ on the earth are Scriptural promises and our hope. (2 Thess. 1:7; Rev. 19:11-16; Ro. 11-25; Rev. 20:1-7)</p>
+            <h3>The Lake of Fire</h3>
+            <p>The devil and his angels, the beast and the false prophet, and who whosoever is not found written in the Lamb’s Book of Life shall be consigned to everlasting punishment in the lake which burns fire and brimstone, which is the second death. (Rev. 19:20, 20:10-15)</p>
+						<ul class="actions">
+							<li><a href="index.php" class="button">Back to Main Page</a></li>
+						</ul>
+					</section>
+
+				<!-- Three -->
+					<section id="three">
+						<h2>Get In Touch</h2>
+						<p>If you have any questions or need prayer please contact us.</p>
+						<div class="row">
+							<div class="col-8 col-12-small">
+								<form method="post" action="#">
+									<div class="row gtr-uniform gtr-50">
+										<div class="col-6 col-12-xsmall"><input type="text" name="name" id="name" placeholder="Name" /></div>
+										<div class="col-6 col-12-xsmall"><input type="email" name="email" id="email" placeholder="Email" /></div>
+										<div class="col-12"><textarea name="message" id="message" placeholder="Message" rows="4"></textarea></div>
+									</div>
+								</form>
+								<ul class="actions">
+									<li><input type="submit" value="Send Message" /></li>
+								</ul>
+							</div>
+							<div class="col-4 col-12-small">
+								<ul class="labeled-icons">
+									<li>
+										<h3 class="icon solid fa-home"><span class="label">Address</span></h3>
+										5238 Business RT 220<br />
+										Bedford, PA 15522<br />
+										United States
+									</li>
+									<li>
+										<h3 class="icon solid fa-mobile-alt"><span class="label">Phone</span></h3>
+										(814)-839-4271
+                    <p>or <br />
+                    (814)-494-3285</p>
+									</li>
+									<li>
+										<h3 class="icon solid fa-envelope"><span class="label">Email</span></h3>
+										<a href="#">filler@gmail.com</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</section>
+			  </div>
+
+		<!-- Footer -->
+			<footer id="footer">
+				<div class="inner">
+					<ul class="icons">
+						<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
+						<li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li>
+						<li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+					<ul class="copyright">
+            <!-- add php to the copywrite-->
+						<li>&copy; <?php echo(date("Y"))?> River of God Church, All Rights Resevered</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
